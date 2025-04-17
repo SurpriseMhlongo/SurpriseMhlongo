@@ -1,13 +1,14 @@
 # Welcome , I’m Surprise Mhlongo
 It is good to have you here :)
 
+---
+
 [![Information Systems](https://img.shields.io/badge/Information%20Systems-007ACC?style=flat&logo=microsoft-access)](https://www.techtarget.com/searchdatacenter/definition/IS-information-system-or-information-services)
 [![Business Analysis](https://img.shields.io/badge/Business%20Analysis-FF6D00?style=flat&logo=tableau)](https://www.iiba.org/professional-development/career-centre/what-is-business-analysis/)
 [![Data Analytics](https://img.shields.io/badge/Data%20Analytics-5E17EB?style=flat&logo=powerbi)](https://www.oracle.com/data-analytics/what-is-data-analytics/)
 ![Profile Views](https://komarev.com/ghpvc/?username=SurpriseMhlongo&color=blue)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/surprise-mhlongo-408512214/)
 
----
 
 ### 🎓 About Me  
 **BCom Information Systems & Business Management** Major at Nelson Mandela University. Passionate about **data-driven decision-making**, **ERP systems**, and **optimizing business processes**. Currently studying for **PL-300 (Power BI Data Analyst)** certification.
