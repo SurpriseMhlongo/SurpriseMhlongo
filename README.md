@@ -1,4 +1,5 @@
-# Welcomme , I’m Surprise Mhlongo
+# Welcome , I’m Surprise Mhlongo
+It is good to have you here :)
 
 [![Information Systems](https://img.shields.io/badge/Information%20Systems-007ACC?style=flat&logo=microsoft-access)](https://www.techtarget.com/searchdatacenter/definition/IS-information-system-or-information-services)
 [![Business Analysis](https://img.shields.io/badge/Business%20Analysis-FF6D00?style=flat&logo=tableau)](https://www.iiba.org/professional-development/career-centre/what-is-business-analysis/)
