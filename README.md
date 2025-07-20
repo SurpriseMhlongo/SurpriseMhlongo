@@ -52,7 +52,7 @@ It is good to have you here :)
 ### 📂 Projects  
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [ASP.NET MVC Projects](https://github.com/SurpriseMhlongo/ASP.NET--MVC-projects) | Collection of MVC web applications and demos. | `C#` `ASP.NET` `Razor` |
+| [ASP.NET MVC Job Listing Project](https://github.com/SurpriseMhlongo/ASP.NET-MVC-projectA) | A simple MVC web application demo. | `C#` `ASP.NET` `Razor` |
 | [Freight Director – Logistics System](https://github.com/SurpriseMhlongo/Web-Systems-Project) | ASP.NET web app for logistics management (academic project). | `C#` `JavaScript` `CSS` |
 | [OutletOptic Sales Dashboard](https://github.com/SurpriseMhlongo/Web-Systems-Project) | Power BI dashboard analyzing sales KPIs. | `Power BI` `DAX` `SQL` |
 
