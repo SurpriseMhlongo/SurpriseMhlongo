@@ -55,6 +55,7 @@ It is good to have you here :)
 | [ASP.NET MVC Job Listing Project](https://github.com/SurpriseMhlongo/ASP.NET-MVC-projectA) | A simple MVC web application demo. | `C#` `ASP.NET` `Razor` |
 | [Freight Director – Logistics System](https://github.com/SurpriseMhlongo/Web-Systems-Project) | ASP.NET web app for logistics management (academic project). | `C#` `JavaScript` `CSS` |
 | [OutletOptic Sales Dashboard](https://github.com/SurpriseMhlongo/Web-Systems-Project) | Power BI dashboard analyzing sales KPIs. | `Power BI` `DAX` `SQL` |
+| [Algerian Wildfire Prediction](https://github.com/SurpriseMhlongo/Data-Quality-MDM-Portfolio) | Data quality pipeline & ML model for fire risk prediction. | `Python` `Pandas` `scikit-learn` |
 
 ---
 
