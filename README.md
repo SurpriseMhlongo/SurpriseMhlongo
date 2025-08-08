@@ -10,7 +10,7 @@ It is good to have you here :)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/surprise-mhlongo-408512214/)
 
 ### 🎓 About Me  
-**BCom Information Systems & Business Management** graduate from Nelson Mandela University. Passionate about **data-driven decision-making**, **ERP systems**, and **optimising business processes**. I aspire to be a Systems/IT auditor, ASP.NET developer or Product Manager.
+**BCom Information Systems & Business Management** graduate from Nelson Mandela University. Passionate about **data-driven decision-making**, **ERP systems**, and **optimising business processes**. I aspire to be a Systems/IT risk analyst/ auditor, ASP.NET developer, Data governance specialist, or Product Manager.
 
 ---
 
@@ -68,7 +68,7 @@ It is good to have you here :)
 ### 📫 Reach Me  
 - **Email**: [mhlongo.surprise@outlook.com](mailto:mhlongo.surprise@outlook.com)  
 - **LinkedIn**: [Surprise Mhlongo](https://www.linkedin.com/in/surprise-mhlongo-408512214/)  
-- **Portfolio**: [Coming Soon]()  
+- **Portfolio**: Please see Repositories.  
 
 ---
 
