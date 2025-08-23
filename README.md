@@ -56,13 +56,13 @@ It is good to have you here :)
 | [Freight Director – Logistics System](https://github.com/SurpriseMhlongo/Web-Systems-Project) | ASP.NET web app for logistics management (academic project). | `C#` `JavaScript` `CSS` |
 | [OutletOptic Sales Dashboard](https://github.com/SurpriseMhlongo/Web-Systems-Project) | Power BI dashboard analyzing sales KPIs. | `Power BI` `DAX` `SQL` |
 | [Algerian Wildfire Prediction](https://github.com/SurpriseMhlongo/Data-Quality-MDM-Portfolio) | Data quality pipeline & ML model for fire risk prediction. | `Python` `Pandas` `scikit-learn` |
-| [Theme Park E-Commerce & VR Integration](https://github.com/SurpriseMhlongo/theme-park-ecommerce-ba-analysis) | Business analysis for omnichannel retail strategy with VR experiences. | `BPMN` `ERD` `Data Analysis` `ROI` |
+| [Theme Park E-Commerce & VR Integration](https://github.com/SurpriseMhlongo/Business-Analysis-Portfolio/tree/main/E-Commerce%20BA%20Analysis) | Business analysis for omnichannel retail strategy with VR experiences. | `BPMN` `ERD` `Data Analysis` `ROI` |
 
 ---
 
 ### 📊 Business Analysis Portfolio
 
-**Featured Project:** [Theme Park E-Commerce & VR Integration](https://github.com/SurpriseMhlongo/theme-park-ecommerce-ba-analysis)  
+**Featured Project:** [Theme Park E-Commerce & VR Integration](https://github.com/SurpriseMhlongo/Business-Analysis-Portfolio/tree/main/E-Commerce%20BA%20Analysis)
 A comprehensive business analysis for a proposed e-commerce and VR-integrated merchandise platform, designed to boost off-season revenue through an omnichannel strategy.
 
 **Key Deliverables:**
