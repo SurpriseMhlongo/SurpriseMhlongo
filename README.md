@@ -71,7 +71,7 @@ A comprehensive business analysis for a proposed e-commerce and VR-integrated me
 - Risk Register & ROI Analysis
 - Executive Presentation
 
-*Explore my [Business Analysis Portfolio](https://github.com/SurpriseMhlongo/theme-park-ecommerce-ba-analysis) for more details.*
+*Explore my [Business Analysis Portfolio](https://github.com/SurpriseMhlongo/Business-Analysis-Portfolio) for more details.*
 
 ---
 
