@@ -1,4 +1,4 @@
-# Welcome, I’m Surprise Mhlongo  
+# Welcome, I'm Surprise Mhlongo  
 It is good to have you here :)  
 
 ---
@@ -10,7 +10,14 @@ It is good to have you here :)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/surprise-mhlongo-408512214/)
 
 ### 🎓 About Me  
-**BCom Information Systems & Business Management** graduate from Nelson Mandela University. Passionate about **data-driven decision-making**, **ERP systems**, and **optimising business processes**. I aspire to be a Systems/IT risk analyst/ auditor, ASP.NET developer, Data governance specialist, or Product Manager.
+**BCom Information Systems & Business Management** graduate from Nelson Mandela University, currently pursuing **BCom Honours in Information Systems**. A versatile professional with a strong foundation in **data-driven decision-making**, **ERP systems**, **business process optimisation**, and **software development**. I thrive at the intersection of business and technology, with interests spanning:
+
+- **IT Risk, Audit & GRC** — ensuring secure, compliant, and well-governed systems  
+- **Business & Systems Analysis** — translating business needs into technical solutions  
+- **Data Analytics** — turning raw data into actionable insights  
+- **Software Development** — building practical applications with ASP.NET, C#, and Python  
+
+I embrace continuous learning and am currently expanding my cloud, security, and AI knowledge through Microsoft certifications.
 
 ---
 
@@ -47,6 +54,13 @@ It is good to have you here :)
 | [![Applied Data Science Lab](https://img.shields.io/badge/WorldQuant-Data_Science-5865F2?logo=worldquant)](https://www.credly.com/badges/2a1f5210-a8da-4069-8467-dcba3d56fe90/public_url) | **Applied Data Science Lab** | Predictive modelling and quantitative research techniques. |
 | [![IBM Data Science](https://img.shields.io/badge/IBM-Data_Science-052FAD?logo=ibm)](https://www.credly.com/badges/4a27265c-8e86-4edd-89d3-50816bb43247/public_url) | **IBM: Applied Data Science with Python - Level 2** | Data analysis, visualisation, and machine learning with Python. |
 
+### 📜 Certifications in Progress
+| Badge | Certification | Focus Area |
+|-------|--------------|-------------|
+| 🏗️ | **AZ-900** – Microsoft Azure Fundamentals | Cloud concepts, Azure services, governance |
+| 🏗️ | **SC-900** – Microsoft Security, Compliance, and Identity Fundamentals | Security, compliance, identity, and GRC |
+| 🏗️ | **AI-900** – Microsoft Azure AI Fundamentals | AI workloads, machine learning, responsible AI |
+
 ---
 
 ### 📂 Projects  
@@ -54,7 +68,7 @@ It is good to have you here :)
 |---------|-------------|--------------|
 | [ASP.NET MVC Job Listing Project](https://github.com/SurpriseMhlongo/ASP.NET-MVC-projectA) | A simple MVC web application demo. | `C#` `ASP.NET` `Razor` |
 | [Freight Director – Logistics System](https://github.com/SurpriseMhlongo/Web-Systems-Project) | ASP.NET web app for logistics management (academic project). | `C#` `JavaScript` `CSS` |
-| [OutletOptic Sales Dashboard](https://github.com/SurpriseMhlongo/Web-Systems-Project) | Power BI dashboard analyzing sales KPIs. | `Power BI` `DAX` `SQL` |
+| [OutletOptic Sales Dashboard](https://github.com/SurpriseMhlongo/Web-Systems-Project) | Power BI dashboard analysing sales KPIs. | `Power BI` `DAX` `SQL` |
 | [Algerian Wildfire Prediction](https://github.com/SurpriseMhlongo/Data-Quality-MDM-Portfolio) | Data quality pipeline & ML model for fire risk prediction. | `Python` `Pandas` `scikit-learn` |
 | [Theme Park E-Commerce & VR Integration](https://github.com/SurpriseMhlongo/Business-Analysis-Portfolio/tree/main/E-Commerce%20BA%20Analysis) | Business analysis for omnichannel retail strategy with VR experiences. | `BPMN` `ERD` `Data Analysis` `ROI` |
 
@@ -62,7 +76,7 @@ It is good to have you here :)
 
 ### 📊 Business Analysis Portfolio
 
-**Featured Project:** [Theme Park E-Commerce & VR Integration](https://github.com/SurpriseMhlongo/Business-Analysis-Portfolio/tree/main/E-Commerce%20BA%20Analysis)
+**Featured Project:** [Theme Park E-Commerce & VR Integration](https://github.com/SurpriseMhlongo/Business-Analysis-Portfolio/tree/main/E-Commerce%20BA%20Analysis)  
 A comprehensive business analysis for a proposed e-commerce and VR-integrated merchandise platform, designed to boost off-season revenue through an omnichannel strategy.
 
 **Key Deliverables:**
@@ -89,6 +103,6 @@ A comprehensive business analysis for a proposed e-commerce and VR-integrated me
 ---
 
 ### 🎯 Goals  
-- Secure a Systems/IT Audit, Business/Systems Analysis, or ASP.NET developer role  
-- Grow expertise in **ERP systems** (SAP, Microsoft Dynamics)  
-- Contribute to projects bridging **business needs** and **technology**
+- Secure a role in **IT Risk/Audit, GRC, Business/Systems Analysis, Data Analytics, or Software Development**  
+- Grow expertise in **ERP systems** (SAP, Microsoft Dynamics), **cloud governance**, and **security/compliance frameworks**  
+- Bridge the gap between **business strategy** and **technology** through data-informed decisions and secure, scalable solutions
